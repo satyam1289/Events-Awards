@@ -1,0 +1,26 @@
+# Web Scraping
+beautifulsoup4==4.12.2
+requests==2.31.0
+lxml==4.9.3
+
+# Article Extraction
+newspaper3k==0.2.8
+
+# NLP and Text Processing
+nltk==3.8.1
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Utilities
+python-dateutil==2.8.2
+fake-useragent==1.4.0
+googlenewsdecoder
+feedparser
+
+# Data Storage
+# json and csv are built-in
+
+
+python-dotenv
